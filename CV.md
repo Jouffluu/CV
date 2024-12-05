@@ -2,8 +2,8 @@
 
 **Location:** Paris, France  
 **Email:**  sujith.sritharan0@gmail.com
-**GitHub:** [YourGitHubUsername](https://github.com/YourGitHubUsername)  
-**LinkedIn:** (https://www.linkedin.com/in/sujith-sritharan/)
+**GitHub:** https://github.com/Jouffluu/ 
+**LinkedIn:** https://www.linkedin.com/in/sujith-sritharan/
 **Google scholar:** https://scholar.google.fr/citations?hl=fr&user=oVIMcaYAAAAJ
 
 ---
