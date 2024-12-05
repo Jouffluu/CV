@@ -55,21 +55,16 @@ PhD Student in Molecular Dynamics at IBPC , passionate about molecular modeling,
 1. **"A Perspective on the Prospective Use of AI in Protein Structure Prediction"**  
    R. Versini, S. Sritharan, B. Aykac Fas, T. Tubiana, S.Z. Aimeur, J. Henri, ...  
    *Journal of Chemical Information and Modeling*, **64**(1), 26–41, 2023.  
-   DOI: [Link to article]
+   DOI: https://doi.org/10.1021/acs.jcim.3c01361
 
 2. **"Plasmodesmata Act as Unconventional Membrane Contact Sites Regulating Inter-Cellular Molecular Exchange in Plants"**  
    M. Smokvarska, J. Perez-Sancho, M. Glavier, S. Sritharan, G. Dubois, ...  
    *bioRxiv*, 2023.12.18.572149, 2023.  
-   DOI: [Link to preprint]
+   DOI: https://doi.org/10.1101/2023.12.18.572149 
 
 3. **"Deep Learning-Based Prediction of *A. thaliana*’s MCTP4 Structure and Exploration of Transmembrane Dynamics Using Coarse-Grained Molecular Dynamics Simulations"**  
    S. Sritharan, R. Versini, J. Petit, E. Bayer, A. Taly, 2023.  
-   [Include journal or conference if published]
-
-4. **"Prediction of *A. thaliana*’s MCTP4 Structure Using Deep Learning-Based Tools and Exploration of Transmembrane Domain Dynamics Using Coarse-Grained Molecular Dynamics Simulations"**  
-   S. Sritharan, R. Versini, J. Petit, E. Bayer, A. Taly  
-   *bioRxiv*, 2023.08.04.552001, 2023.  
-   DOI: [Link to preprint]
+   DOI:https://doi.org/10.1101/2023.08.04.552001 
 
 ---
 
