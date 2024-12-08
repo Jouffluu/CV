@@ -1,10 +1,15 @@
 # Sujith Sritharan
 
 **Location:** Paris, France  
-**Email:**  sujith.sritharan0@gmail.com
-**GitHub:** https://github.com/Jouffluu/ 
-**LinkedIn:** https://www.linkedin.com/in/sujith-sritharan/
-**Google scholar:** https://scholar.google.fr/citations?hl=fr&user=oVIMcaYAAAAJ
+
+**Email:** sujith.sritharan0@gmail.com  
+
+**GitHub:** [https://github.com/Jouffluu/](https://github.com/Jouffluu/)  
+
+**LinkedIn:** [https://www.linkedin.com/in/sujith-sritharan/](https://www.linkedin.com/in/sujith-sritharan/)  
+
+**Google Scholar:** [https://scholar.google.fr/citations?user=oVIMcaYAAAAJ&hl=fr](https://scholar.google.com/citations?user=NEW_ID)  
+
 
 ---
 
