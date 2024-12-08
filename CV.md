@@ -10,7 +10,7 @@
 
 ## About Me
 
-PhD Student in Molecular Dynamics at IBPC , passionate about molecular modeling, Martini coarse-grained systems, and membrane proteins. Skilled in computational simulations with a strong interest in exploring the dynamic behavior of biomolecular systems.
+PhD Student in Molecular Dynamics at the Laboratory of Theoretical Biochemistry (LBT,CNRS UPR9080) under the supervition of Antoine Taly, passionate about molecular modeling, Martini coarse-grained systems, and membrane proteins. Skilled in computational simulations with a strong interest in exploring the dynamic behavior of biomolecular systems.
 
 ---
 
@@ -68,29 +68,17 @@ PhD Student in Molecular Dynamics at IBPC , passionate about molecular modeling,
 
 ---
 
-## Conferences & Presentations
-
-- **Poster Presentation:** "Protein-Lipid Interactions in Biological Membranes" at the Computational Chemistry Symposium, Berlin, 202X.
-
----
-
 ## Projects
 
 ### **Molecular Modeling of Membrane Proteins**
 
 - Developed and executed simulations using Martini coarse-grained force fields.
-- Investigated the dynamic behavior of membrane proteins within lipid bilayers.
+- Investigated the dynamic behavior of membrane proteins within lipid bilayers in plant membrane.
 
 ### **Protein-Lipid Interaction Analysis**
 
 - Analyzed interactions between membrane proteins and diverse lipid compositions.
 - Explored the effects of lipid diversity on protein function and stability.
-
----
-
-## Certifications
-
-- **Advanced Molecular Dynamics Techniques Workshop**
 
 ---
 
