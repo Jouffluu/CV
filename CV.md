@@ -10,7 +10,7 @@
 
 ## About Me
 
-PhD Student in Molecular Dynamics at the Laboratory of Theoretical Biochemistry (LBT,CNRS UPR9080) under the supervition of Antoine Taly, passionate about molecular modeling, Martini coarse-grained systems, and membrane proteins. Skilled in computational simulations with a strong interest in exploring the dynamic behavior of biomolecular systems.
+PhD Student in Molecular Dynamics at the Laboratory of Theoretical Biochemistry (LBT,CNRS UPR9080) supervised by Antoine Taly, passionate about molecular modeling, Martini coarse-grained systems, and membrane proteins. Skilled in computational simulations with a strong interest in exploring the dynamic behavior of biomolecular systems.
 
 ---
 
