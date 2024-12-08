@@ -32,7 +32,7 @@ PhD Student in Molecular Dynamics at the Laboratory of Theoretical Biochemistry 
 **Location:** Paris, France
 
 - Specialized in computational biophysics and molecular simulations.
-- Thesis: "Modeling Membrane Protein Dynamics with Coarse-Grained Techniques."
+- Thesis: "Molecular modeling of plasmodesmata organization by MCTP proteins."
 
 
 ## Skills
