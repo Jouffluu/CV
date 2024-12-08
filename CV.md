@@ -34,11 +34,6 @@ PhD Student in Molecular Dynamics at the Laboratory of Theoretical Biochemistry 
 - Specialized in computational biophysics and molecular simulations.
 - Thesis: "Modeling Membrane Protein Dynamics with Coarse-Grained Techniques."
 
----
-
-## Research Experience
-
----
 
 ## Skills
 
