@@ -11,8 +11,9 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v4
+    - name: Download CV.md
+      run: |
+        curl -L -o CV.md https://raw.githubusercontent.com/Jouffluu/CV/main/CV.md
       
     - name: Convert Markdown to PDF
       run: |
