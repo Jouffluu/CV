@@ -1,8 +1,7 @@
 <!-- Exemple de section HTML pour un banner coloré -->
 <div style="background-color:#1abc9c; padding:20px; text-align:center;">
-  <h1 style="color:#01D758; margin:0;">Bienvenue sur mon CV</h1>
+  <h1 style="color:#005842; margin:0;">Bienvenue sur mon CV</h1>
 </div>
-
 
 # Sujith Sritharan
 
