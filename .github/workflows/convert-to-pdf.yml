@@ -20,7 +20,7 @@ jobs:
         pandoc CV.md -o CV.pdf
         
     - name: Upload PDF
-      uses: actions/upload-artifact@v2
+      uses: actions/upload-artifact@v3
       with:
         name: CV-pdf
         path: CV.pdf
