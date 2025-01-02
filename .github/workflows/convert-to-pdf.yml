@@ -1,0 +1,26 @@
+name: Convert Markdown to PDF
+
+on:
+  push:
+    paths:
+      - CV.md
+  workflow_dispatch:
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+      
+    - name: Convert Markdown to PDF
+      run: |
+        sudo apt-get install -y pandoc
+        pandoc CV.md -o CV.pdf
+        
+    - name: Upload PDF
+      uses: actions/upload-artifact@v2
+      with:
+        name: CV-pdf
+        path: CV.pdf
